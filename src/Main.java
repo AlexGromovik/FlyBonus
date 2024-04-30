@@ -5,10 +5,7 @@ public class Main {
         int bonusMiles; // переменная бонусные мили
         flyTicket = 13_676;
         bonusMiles = flyTicket / payBonus; // Расчет количества бонусных миль
-        // int x = 20;
-        // int p = 20;
-
-        // System.out.println(x / p + " Бонусных (-ая, ые) миль (-я, -и)");
+       
         System.out.println("Бонусные мили = " + bonusMiles); // Код по 2-му варианту
     }
 }
